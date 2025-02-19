@@ -329,6 +329,16 @@ AtlasLootBossButtons = {
 		"";
 		"GnOutsideTrash";
 	};
+	HateforgeQuarry ={
+		"";
+		"";
+		"HFQHighForemanBargulBlackhammer";
+		"HFQEngineerFiggles";
+		"HFQCorrosis";
+		"HFQHatereaverAnnihilator";
+		"HFQHargeshDoomcaller";
+		"HFQTrash"
+	}
 	Maraudon = {
 		"VanillaKeys";
 		"";
@@ -5747,5 +5757,23 @@ AtlasLoot_Data["AtlasLootItems"] = {
 		{ 5423, "INV_Axe_17", "=q3=Boahn's Fang", "=ds=#h2#, #w1#", "28%" },
 		{ 0,"","","" },
 		{ 5422, "INV_Pants_02", "=q2=Brambleweed Leggings", "=ds=#s11#, #a2#", "64%" },
+	};
+	HFQHighForemanBargulBlackhammer = {
+		{60565, "INV_Axe_17", "=q3=Hateforged Cleaver", "=ds=#h1#, #w1#", "20%"},
+	};
+	HFQEngineerFiggles = {
+		{},
+	};
+	HFQCorrosis = {
+		{},
+	};
+	HFQHatereaverAnnihilator = {
+		{},
+	};
+	HFQHargeshDoomcaller = {
+		{},
+	};
+	HFQTrash = {
+		{},
 	};
 };
