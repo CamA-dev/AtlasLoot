@@ -338,7 +338,7 @@ AtlasLootBossButtons = {
 		"HFQHatereaverAnnihilator";
 		"HFQHargeshDoomcaller";
 		"HFQTrash"
-	}
+	};
 	Maraudon = {
 		"VanillaKeys";
 		"";
