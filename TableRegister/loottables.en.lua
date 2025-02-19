@@ -463,7 +463,13 @@ AtlasLoot_TableNames = {
     ["ZGTrash1"] = { AL["Trash Mobs"] .. " (" .. AL["Zul'Gurub"] .. ")", "AtlasLootItems" },
     ["ZGTrash2"] = { AL["Trash Mobs"] .. " (" .. AL["Zul'Gurub"] .. ")", "AtlasLootItems" },
     ["ZGEnchants"] = { "ZG Enchants", "AtlasLootItems" },
-
+    --HateforgeQuarry
+    ["HFQHighForemanBargulBlackhammer"] ={ AL["High Foreman Bargul Blackhammer"], "AtlasLootItems"},
+    ["HFQEngineerFiggles"] ={ AL["Engineer Figgles"], "AtlasLootItems"},
+    ["HFQCorrosis"] ={ AL["Corrosis"], "AtlasLootItems"},
+    ["HFQHatereaverAnnihilator"] ={ AL["Hatereaver Annihilator"], "AtlasLootItems"},
+    ["HFQHargeshDoomcaller"] ={ AL["Hargesh Doomcaller"], "AtlasLootItems"},
+    ["HFQTrash"] ={ AL["Trash  Mobs"], "AtlasLootItems"},
     ------------
     --- Sets ---
     ------------
