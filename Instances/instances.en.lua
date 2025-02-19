@@ -5762,18 +5762,18 @@ AtlasLoot_Data["AtlasLootItems"] = {
 		{60565, "INV_Axe_17", "=q3=Hateforged Cleaver", "=ds=#h1#, #w1#", "20%"},
 	};
 	HFQEngineerFiggles = {
-		{},
+		{60565, "INV_Axe_17", "=q3=Hateforged Cleaver", "=ds=#h1#, #w1#", "20%"},
 	};
 	HFQCorrosis = {
-		{},
+		{60565, "INV_Axe_17", "=q3=Hateforged Cleaver", "=ds=#h1#, #w1#", "20%"},
 	};
 	HFQHatereaverAnnihilator = {
-		{},
+		{60565, "INV_Axe_17", "=q3=Hateforged Cleaver", "=ds=#h1#, #w1#", "20%"},
 	};
 	HFQHargeshDoomcaller = {
-		{},
+		{60565, "INV_Axe_17", "=q3=Hateforged Cleaver", "=ds=#h1#, #w1#", "20%"},
 	};
 	HFQTrash = {
-		{},
+		{60565, "INV_Axe_17", "=q3=Hateforged Cleaver", "=ds=#h1#, #w1#", "20%"},
 	};
 };
